@@ -1,0 +1,69 @@
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Overview", "tip_name": "About Statistics with R Specialization", "tip_duration": "10 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Project Information", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Overview", "tip_name": "More about Inferential Statistics", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Introduction", "tip_duration": "4 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Sampling Variability and CLT", "tip_duration": "20 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "CLT (for the mean) examples", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Confidence Interval (for a mean)", "tip_duration": "11 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Accuracy vs. Precision", "tip_duration": "7 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Required Sample Size for ME", "tip_duration": "4 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "CI (for the mean) examples", "tip_duration": "5 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Data Analysis Project", "tip_duration": "2h"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Data Analysis Project", "tip_duration": ""}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Introduction", "tip_duration": "3 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Sampling Variability and CLT for Proportions", "tip_duration": "15 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Confidence Interval for a Proportion", "tip_duration": "9 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Hypothesis Test for a Proportion", "tip_duration": "9 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Estimating the Difference Between Two Proportions", "tip_duration": "17 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Hypothesis Test for Comparing Two Proportions", "tip_duration": "13 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Small Sample Proportions", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Examples", "tip_duration": "4 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Comparing Two Small Sample Proportions", "tip_duration": "5 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Chi-Square GOF Test", "tip_duration": "14 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "The Chi-Square Independence Test", "tip_duration": "11 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Introduction", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "t-distribution", "tip_duration": "7 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for a mean", "tip_duration": "9 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for comparing two independent means", "tip_duration": "8 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for comparing two paired means", "tip_duration": "9 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Power", "tip_duration": "11 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Comparing more than two means", "tip_duration": "6 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "ANOVA", "tip_duration": "9 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Conditions for ANOVA", "tip_duration": "2 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Multiple comparisons", "tip_duration": "6 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Bootstrapping", "tip_duration": "8 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Practice Quiz", "tip_duration": "8 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Practice Quiz", "tip_duration": "6 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Quiz", "tip_duration": "7 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Data Analysis with R", "tip_name": "Week 1 Lab Instructions", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Data Analysis with R", "tip_name": "Week 1 Lab", "tip_duration": "6 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Practice Quiz", "tip_duration": "9 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Quiz", "tip_duration": "12 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Data Analysis with R", "tip_name": "Week 4 Lab Instructions", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Data Analysis with R", "tip_name": "Week 4 Lab", "tip_duration": "13 questions"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Quiz", "tip_duration": "14 questions"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Data Analysis with R", "tip_name": "Week 3 Lab Instructions", "tip_duration": "10 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Data Analysis with R", "tip_name": "Week 3 Lab", "tip_duration": "7 questions"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Another Introduction to Inference", "tip_duration": "4 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Hypothesis Testing (for a mean)", "tip_duration": "14 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "HT (for the mean) examples", "tip_duration": "9 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Inference for Other Estimators", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Decision Errors", "tip_duration": "8 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Significance vs. Confidence Level", "tip_duration": "6 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Statistical vs. Practical Significance", "tip_duration": "7 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Practice Quiz", "tip_duration": "5 questions"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Quiz", "tip_duration": "8 questions"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Data Analysis with R", "tip_name": "Week 2 Lab Instructions", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Data Analysis with R", "tip_name": "Week 2 Lab", "tip_duration": "6 questions"}

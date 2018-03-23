@@ -11,4 +11,9 @@ import scrapy
 class GetCourseraPlanItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    week = scrapy.Field()
+    deadline = scrapy.Field()
+    lesson_name = scrapy.Field()
+    tip_name = scrapy.Field()
+    tip_duration=scrapy.Field()
     pass
