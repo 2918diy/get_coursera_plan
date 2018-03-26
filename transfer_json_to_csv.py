@@ -13,5 +13,5 @@ with open('/Users/apple/Desktop/Code/python_crawl/getCourseraPlan/item.json', 'r
         j_d = json.loads(d)
         j_v = list(j_d.values())
         with open('/Users/apple/Desktop/Code/python_crawl/getCourseraPlan/data.csv', 'ab+') as f2:
-            line = ','.join(j_v) + '\n'
+            line = '|'.join(j_v) + '\n'
             f2.write(line.encode('utf-8'))

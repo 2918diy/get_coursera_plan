@@ -1,0 +1,122 @@
+第 1 周|Mar 19|Course#2 Introduction|Computations Optimization|2 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Welcome|1 min
+第 5 周|Apr 16|Connected components|Introduction|5 min
+第 4 周|Apr 9|Graph Representations|Graph examples|4 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|Advantages of Spark SQL|5 min
+第 1 周|Mar 19|Course#2 Introduction|What is BigData Analysis?|1 min
+第 1 周|Mar 19|Course#2 Introduction|Tools For BigData Analysis|1 min
+第 1 周|Mar 19|Course#2 Introduction|Graph Data Analysis|2 min
+第 1 周|Mar 19|Meet Your Teachers|Meet Alexey Dral|2 min
+第 1 周|Mar 19|Meet Your Teachers|Meet Pavel Mezentsev|37 sec
+第 1 周|Mar 19|Meet Your Teachers|Meet Natalia Pritykovskaya|40 sec
+第 1 周|Mar 19|Meet Your Teachers|Meet Pavel Klemenkov|40 sec
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Analytics: Business Use Cases|2 min
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|HTTP Web Service: Access Log Format|4 min
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Business Use Cases: Solution with Hive|6 min
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|(optional) SQL: likbez|10 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Spark Execution Model|5 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Shuffle. Where to send data?|5 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Shuffle. How to send data?|4 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Optimizing Functions|4 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|PageRank Optimization|5 min
+第 6 周|Apr 23|Spark Execution Model & RDD Internals|Spark Execution Model & RDD Internals|5 questions
+第 6 周|Apr 23|Spark SQL|Spark SQL. Motivation|8 min
+第 6 周|Apr 23|Spark SQL|Catalyst|5 min
+第 6 周|Apr 23|Spark SQL|Catalyst Optimization Example|5 min
+第 6 周|Apr 23|Spark SQL|Joins|3 min
+第 6 周|Apr 23|Spark SQL|Optimizing Joins|5 min
+第 6 周|Apr 23|Spark SQL|UDF Optimization|5 min
+第 5 周|Apr 16|Connected components|Algorithm|9 min
+第 5 周|Apr 16|Connected components|GraphFrames|8 min
+第 5 周|Apr 16|Connected components|Connected Components|6 questions
+第 5 周|Apr 16|PageRank|Random Walk|5 min
+第 5 周|Apr 16|PageRank|Page Rank Algorithm|10 min
+第 5 周|Apr 16|PageRank|RDD Implementation|4 min
+第 5 周|Apr 16|PageRank|GraphFrames API|4 min
+第 5 周|Apr 16|PageRank|PageRank|8 questions
+第 5 周|Apr 16|Label Propagation Algorithm (LPA)|Taste Graph. Part I|10 min
+第 4 周|Apr 9|Graph Representations|Graph representation|7 min
+第 4 周|Apr 9|Graph Representations|Counting common friends. Part I|2 min
+第 4 周|Apr 9|Graph Representations|Counting common friends. Part II|10 min
+第 4 周|Apr 9|Graph Representations|Counting common friends. Part III|5 min
+第 4 周|Apr 9|Graph Representations|Graph Representations|5 questions
+第 4 周|Apr 9|Motif Finding|GraphFrames: Introduction|6 min
+第 4 周|Apr 9|Motif Finding|Motif Finding: DSL|6 min
+第 4 周|Apr 9|Motif Finding|Motif Finding: Counting Mutual Friends|6 min
+第 4 周|Apr 9|Motif Finding|Motif Finding: Under The Hood. Part 1|14 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|What is Pandas DataFrame and how to create it|4 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|How to process a DataFrame as SQL|4 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|Working with Hive|4 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|Reading and Writing Files|7 min
+第 3 周|Apr 2|Introducing DataFrame and SQL|Introducing DataFrame and SQL|8 questions
+第 3 周|Apr 2|Complex Operations with DataFrames|RDD vs. DF vs. SQL|3 min
+第 3 周|Apr 2|Complex Operations with DataFrames|Projection and Filtering|5 min
+第 3 周|Apr 2|Complex Operations with DataFrames|Functions|5 min
+第 3 周|Apr 2|Complex Operations with DataFrames|Aggregates|6 min
+第 3 周|Apr 2|Complex Operations with DataFrames|Join|8 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|User Defined Functions|8 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|Time Processing|4 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|Window Functions|7 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|Two-Dimensional Distributions|4 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|Spark SQL and Spark Dataframe|9 questions
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Hive Data Definition Language (DDL)|11 min
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Hive Data Manipulation Language (DML)|6 min
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Hive: SQL over Hadoop MapReduce|10 questions
+第 1 周|Mar 19|Hive: SQL over Hadoop MapReduce|Slack Channel is the quickest way to get answers to your questions|10 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|Hive Analytics: RegexSerDe, Views|7 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|(optional) Regular Expressions, Likbez|9 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|Hive Analytics: UDF, UDAF, UDTF|7 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|Hive Streaming|4 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|Hive PTF (Window Functions)|5 min
+第 2 周|Mar 26|First Assignment|First Assignment: instructions|10 min
+第 6 周|Apr 23|Spark SQL|Spark SQL and Catalyst|5 questions
+第 6 周|Apr 23|Optimization tips and tricks|Persistance and Checkpointing|7 min
+第 6 周|Apr 23|Optimization tips and tricks|Memory Management|3 min
+第 6 周|Apr 23|Optimization tips and tricks|Resource Allocation|6 min
+第 6 周|Apr 23|Optimization tips and tricks|Dynamic Allocation|5 min
+第 6 周|Apr 23|Optimization tips and tricks|Speculative Execution|4 min
+第 6 周|Apr 23|Optimization tips and tricks|Memory management and resource allocation|5 questions
+第 6 周|Apr 23|Optimization tips and tricks|Final Quiz|8 questions
+第 5 周|Apr 16|Label Propagation Algorithm (LPA)|Taste Graph. Part II|3 min
+第 5 周|Apr 16|Label Propagation Algorithm (LPA)|Taste Graph. Part III|9 min
+第 5 周|Apr 16|Label Propagation Algorithm (LPA)|Label Propagation Algorithm (LPA)|5 questions
+第 5 周|Apr 16|Practice|PageRank and Recent Advances|9 questions
+第 5 周|Apr 16|Practice|Graph based Music Recommender|10 min
+第 5 周|Apr 16|Practice|Graph based Music Recommender. Task 1|1h
+第 5 周|Apr 16|Practice|Graph based Music Recommender. Task 2|1h
+第 5 周|Apr 16|Practice|Graph based Music Recommender. Task 3|1h
+第 5 周|Apr 16|Practice|Graph based Music Recommender. Task 4|1h
+第 5 周|Apr 16|Practice|Rate this week|5 min
+第 5 周|Apr 16|Honors Track|Graph based Music Recommender. Task 5|1h
+第 4 周|Apr 9|Motif Finding|Motif Finding: Under The Hood. Part 2|4 min
+第 4 周|Apr 9|Motif Finding|Motif Finding|9 questions
+第 4 周|Apr 9|Triangles Count|Triangles Count: Introduction|3 min
+第 4 周|Apr 9|Triangles Count|Triangles Count: Edge Lists|6 min
+第 4 周|Apr 9|Triangles Count|Triangles Count: GraphFrame|6 min
+第 4 周|Apr 9|Triangles Count|Triangles Count|4 questions
+第 4 周|Apr 9|Practice|Graph Analysis from Big Data Perspective|10 questions
+第 4 周|Apr 9|Practice|Counting number of the mutual friends|1h
+第 4 周|Apr 9|Practice|Rate this week|5 min
+第 3 周|Apr 2|Integration of DataFrames with Hive, Pandas and ODBC|Rate this week|5 min
+第 1 周|Mar 19|Hive Analytics with UDF, PTF (Window Functions) and Streaming|Hive Analytics with UDF and Streaming|10 questions
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive Optimization: Partitioning, Bucketing and Sampling|8 min
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive Map-Side Joins: Plain, Bucket, Sort-Merge|5 min
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive Optimization: Data Skew|4 min
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive Optimization: Row-Columnar File Formats, Compression|8 min
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive final|10 questions
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Hive assignment. Intro|10 min
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Rate this week|5 min
+第 2 周|Mar 26|First Assignment|How to submit your first assignment|2 min
+第 2 周|Mar 26|First Assignment|Assignments. General requirements|10 min
+第 2 周|Mar 26|First Assignment|Demo Assignment|1h
+第 2 周|Mar 26|First Assignment|Docker Installation Guide|10 min
+第 2 周|Mar 26|Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)|Hive assignment. Intro|10 min
+第 2 周|Mar 26|Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)|Hive assignment. Task1|1h
+第 2 周|Mar 26|Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)|Hive assignment. Task2|45 min
+第 2 周|Mar 26|Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)|Rate this week|5 min
+第 2 周|Mar 26|Honors Track|Hive assignment. Task3|45 min
+第 6 周|Apr 23|Optimization tips and tricks|Deployment of the environment|10 min
+第 6 周|Apr 23|Optimization tips and tricks|Breadth-first search in Spark SQL|1h
+第 6 周|Apr 23|Optimization tips and tricks|Rate this week|5 min
+第 5 周|Apr 16|Honors Track|Graph based Music Recommender. Task 6|1h
+第 1 周|Mar 19|Hive Optimization: Bucketing, Partitioning, Sampling, Compression|Instructions for Hive programming assignment|10 min

@@ -1,69 +1,122 @@
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Overview", "tip_name": "About Statistics with R Specialization", "tip_duration": "10 min"}
-{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Project Information", "tip_duration": "10 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Overview", "tip_name": "More about Inferential Statistics", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Introduction", "tip_duration": "4 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "Sampling Variability and CLT", "tip_duration": "20 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "CLT and Sampling", "tip_name": "CLT (for the mean) examples", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Confidence Interval (for a mean)", "tip_duration": "11 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Accuracy vs. Precision", "tip_duration": "7 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "Required Sample Size for ME", "tip_duration": "4 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Confidence Intervals", "tip_name": "CI (for the mean) examples", "tip_duration": "5 min"}
-{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Data Analysis Project", "tip_duration": "2h"}
-{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "The Project and Evaluation", "tip_name": "Data Analysis Project", "tip_duration": ""}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Introduction", "tip_duration": "3 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Sampling Variability and CLT for Proportions", "tip_duration": "15 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Confidence Interval for a Proportion", "tip_duration": "9 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Hypothesis Test for a Proportion", "tip_duration": "9 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Estimating the Difference Between Two Proportions", "tip_duration": "17 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Inference for proportions", "tip_name": "Hypothesis Test for Comparing Two Proportions", "tip_duration": "13 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Small Sample Proportions", "tip_duration": "10 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Examples", "tip_duration": "4 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Comparing Two Small Sample Proportions", "tip_duration": "5 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "Chi-Square GOF Test", "tip_duration": "14 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Simulation based inference for proportions and chi-square testing", "tip_name": "The Chi-Square Independence Test", "tip_duration": "11 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Introduction", "tip_duration": "4 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "t-distribution", "tip_duration": "7 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for a mean", "tip_duration": "9 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for comparing two independent means", "tip_duration": "8 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Inference for comparing two paired means", "tip_duration": "9 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "t-distribution and Comparing Two Means", "tip_name": "Power", "tip_duration": "11 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Comparing more than two means", "tip_duration": "6 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "ANOVA", "tip_duration": "9 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Conditions for ANOVA", "tip_duration": "2 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Multiple comparisons", "tip_duration": "6 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "ANOVA and Bootstrapping", "tip_name": "Bootstrapping", "tip_duration": "8 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Practice Quiz", "tip_duration": "8 questions"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Practice Quiz", "tip_duration": "6 questions"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 1 Quiz", "tip_duration": "7 questions"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Data Analysis with R", "tip_name": "Week 1 Lab Instructions", "tip_duration": "10 min"}
-{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Data Analysis with R", "tip_name": "Week 1 Lab", "tip_duration": "6 questions"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Practice Quiz", "tip_duration": "9 questions"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 4 Quiz", "tip_duration": "12 questions"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Data Analysis with R", "tip_name": "Week 4 Lab Instructions", "tip_duration": "10 min"}
-{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Data Analysis with R", "tip_name": "Week 4 Lab", "tip_duration": "13 questions"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 3 Quiz", "tip_duration": "14 questions"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Data Analysis with R", "tip_name": "Week 3 Lab Instructions", "tip_duration": "10 min"}
-{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Data Analysis with R", "tip_name": "Week 3 Lab", "tip_duration": "7 questions"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Another Introduction to Inference", "tip_duration": "4 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "Hypothesis Testing (for a mean)", "tip_duration": "14 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hypothesis Testing", "tip_name": "HT (for the mean) examples", "tip_duration": "9 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Lesson Learning Objectives", "tip_duration": "10 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Inference for Other Estimators", "tip_duration": "10 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Decision Errors", "tip_duration": "8 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Significance vs. Confidence Level", "tip_duration": "6 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Significance", "tip_name": "Statistical vs. Practical Significance", "tip_duration": "7 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Suggested Readings and Practice Exercises", "tip_duration": "10 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Practice Quiz", "tip_duration": "5 questions"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Strengthen Your Understanding", "tip_name": "Week 2 Quiz", "tip_duration": "8 questions"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Data Analysis with R", "tip_name": "Week 2 Lab Instructions", "tip_duration": "10 min"}
-{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Data Analysis with R", "tip_name": "Week 2 Lab", "tip_duration": "6 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Course#2 Introduction", "tip_name": "Computations Optimization", "tip_duration": "2 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Welcome", "tip_duration": "1 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Connected components", "tip_name": "Introduction", "tip_duration": "5 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Graph examples", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "Advantages of Spark SQL", "tip_duration": "5 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Course#2 Introduction", "tip_name": "What is BigData Analysis?", "tip_duration": "1 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Course#2 Introduction", "tip_name": "Tools For BigData Analysis", "tip_duration": "1 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Course#2 Introduction", "tip_name": "Graph Data Analysis", "tip_duration": "2 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Meet Your Teachers", "tip_name": "Meet Alexey Dral", "tip_duration": "2 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Meet Your Teachers", "tip_name": "Meet Pavel Mezentsev", "tip_duration": "37 sec"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Meet Your Teachers", "tip_name": "Meet Natalia Pritykovskaya", "tip_duration": "40 sec"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Meet Your Teachers", "tip_name": "Meet Pavel Klemenkov", "tip_duration": "40 sec"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Analytics: Business Use Cases", "tip_duration": "2 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "HTTP Web Service: Access Log Format", "tip_duration": "4 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Business Use Cases: Solution with Hive", "tip_duration": "6 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "(optional) SQL: likbez", "tip_duration": "10 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Spark Execution Model", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Shuffle. Where to send data?", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Shuffle. How to send data?", "tip_duration": "4 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Optimizing Functions", "tip_duration": "4 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "PageRank Optimization", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark Execution Model & RDD Internals", "tip_name": "Spark Execution Model & RDD Internals", "tip_duration": "5 questions"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Spark SQL. Motivation", "tip_duration": "8 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Catalyst", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Catalyst Optimization Example", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Joins", "tip_duration": "3 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Optimizing Joins", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "UDF Optimization", "tip_duration": "5 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Connected components", "tip_name": "Algorithm", "tip_duration": "9 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Connected components", "tip_name": "GraphFrames", "tip_duration": "8 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Connected components", "tip_name": "Connected Components", "tip_duration": "6 questions"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "PageRank", "tip_name": "Random Walk", "tip_duration": "5 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "PageRank", "tip_name": "Page Rank Algorithm", "tip_duration": "10 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "PageRank", "tip_name": "RDD Implementation", "tip_duration": "4 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "PageRank", "tip_name": "GraphFrames API", "tip_duration": "4 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "PageRank", "tip_name": "PageRank", "tip_duration": "8 questions"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Label Propagation Algorithm (LPA)", "tip_name": "Taste Graph. Part I", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Graph representation", "tip_duration": "7 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Counting common friends. Part I", "tip_duration": "2 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Counting common friends. Part II", "tip_duration": "10 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Counting common friends. Part III", "tip_duration": "5 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Graph Representations", "tip_name": "Graph Representations", "tip_duration": "5 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "GraphFrames: Introduction", "tip_duration": "6 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "Motif Finding: DSL", "tip_duration": "6 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "Motif Finding: Counting Mutual Friends", "tip_duration": "6 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "Motif Finding: Under The Hood. Part 1", "tip_duration": "14 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "What is Pandas DataFrame and how to create it", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "How to process a DataFrame as SQL", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "Working with Hive", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "Reading and Writing Files", "tip_duration": "7 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Introducing DataFrame and SQL", "tip_name": "Introducing DataFrame and SQL", "tip_duration": "8 questions"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Complex Operations with DataFrames", "tip_name": "RDD vs. DF vs. SQL", "tip_duration": "3 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Complex Operations with DataFrames", "tip_name": "Projection and Filtering", "tip_duration": "5 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Complex Operations with DataFrames", "tip_name": "Functions", "tip_duration": "5 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Complex Operations with DataFrames", "tip_name": "Aggregates", "tip_duration": "6 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Complex Operations with DataFrames", "tip_name": "Join", "tip_duration": "8 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "User Defined Functions", "tip_duration": "8 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "Time Processing", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "Window Functions", "tip_duration": "7 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "Two-Dimensional Distributions", "tip_duration": "4 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "Spark SQL and Spark Dataframe", "tip_duration": "9 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Hive Data Definition Language (DDL)", "tip_duration": "11 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Hive Data Manipulation Language (DML)", "tip_duration": "6 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Hive: SQL over Hadoop MapReduce", "tip_duration": "10 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive: SQL over Hadoop MapReduce", "tip_name": "Slack Channel is the quickest way to get answers to your questions", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "Hive Analytics: RegexSerDe, Views", "tip_duration": "7 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "(optional) Regular Expressions, Likbez", "tip_duration": "9 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "Hive Analytics: UDF, UDAF, UDTF", "tip_duration": "7 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "Hive Streaming", "tip_duration": "4 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "Hive PTF (Window Functions)", "tip_duration": "5 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "First Assignment", "tip_name": "First Assignment: instructions", "tip_duration": "10 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Spark SQL", "tip_name": "Spark SQL and Catalyst", "tip_duration": "5 questions"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Persistance and Checkpointing", "tip_duration": "7 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Memory Management", "tip_duration": "3 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Resource Allocation", "tip_duration": "6 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Dynamic Allocation", "tip_duration": "5 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Speculative Execution", "tip_duration": "4 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Memory management and resource allocation", "tip_duration": "5 questions"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Final Quiz", "tip_duration": "8 questions"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Label Propagation Algorithm (LPA)", "tip_name": "Taste Graph. Part II", "tip_duration": "3 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Label Propagation Algorithm (LPA)", "tip_name": "Taste Graph. Part III", "tip_duration": "9 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Label Propagation Algorithm (LPA)", "tip_name": "Label Propagation Algorithm (LPA)", "tip_duration": "5 questions"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "PageRank and Recent Advances", "tip_duration": "9 questions"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Graph based Music Recommender", "tip_duration": "10 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Graph based Music Recommender. Task 1", "tip_duration": "1h"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Graph based Music Recommender. Task 2", "tip_duration": "1h"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Graph based Music Recommender. Task 3", "tip_duration": "1h"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Graph based Music Recommender. Task 4", "tip_duration": "1h"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Practice", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Honors Track", "tip_name": "Graph based Music Recommender. Task 5", "tip_duration": "1h"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "Motif Finding: Under The Hood. Part 2", "tip_duration": "4 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Motif Finding", "tip_name": "Motif Finding", "tip_duration": "9 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Triangles Count", "tip_name": "Triangles Count: Introduction", "tip_duration": "3 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Triangles Count", "tip_name": "Triangles Count: Edge Lists", "tip_duration": "6 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Triangles Count", "tip_name": "Triangles Count: GraphFrame", "tip_duration": "6 min"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Triangles Count", "tip_name": "Triangles Count", "tip_duration": "4 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Practice", "tip_name": "Graph Analysis from Big Data Perspective", "tip_duration": "10 questions"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Practice", "tip_name": "Counting number of the mutual friends", "tip_duration": "1h"}
+{"week": "第 4 周", "deadline": "Apr 9", "lesson_name": "Practice", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 3 周", "deadline": "Apr 2", "lesson_name": "Integration of DataFrames with Hive, Pandas and ODBC", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Analytics with UDF, PTF (Window Functions) and Streaming", "tip_name": "Hive Analytics with UDF and Streaming", "tip_duration": "10 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive Optimization: Partitioning, Bucketing and Sampling", "tip_duration": "8 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive Map-Side Joins: Plain, Bucket, Sort-Merge", "tip_duration": "5 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive Optimization: Data Skew", "tip_duration": "4 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive Optimization: Row-Columnar File Formats, Compression", "tip_duration": "8 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive final", "tip_duration": "10 questions"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Hive assignment. Intro", "tip_duration": "10 min"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "First Assignment", "tip_name": "How to submit your first assignment", "tip_duration": "2 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "First Assignment", "tip_name": "Assignments. General requirements", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "First Assignment", "tip_name": "Demo Assignment", "tip_duration": "1h"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "First Assignment", "tip_name": "Docker Installation Guide", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)", "tip_name": "Hive assignment. Intro", "tip_duration": "10 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)", "tip_name": "Hive assignment. Task1", "tip_duration": "1h"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)", "tip_name": "Hive assignment. Task2", "tip_duration": "45 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Hive Analytics: HivQL (~SQL), Analytics (window-function), Optimization (partitions, buckets, compression, ...)", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 2 周", "deadline": "Mar 26", "lesson_name": "Honors Track", "tip_name": "Hive assignment. Task3", "tip_duration": "45 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Deployment of the environment", "tip_duration": "10 min"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Breadth-first search in Spark SQL", "tip_duration": "1h"}
+{"week": "第 6 周", "deadline": "Apr 23", "lesson_name": "Optimization tips and tricks", "tip_name": "Rate this week", "tip_duration": "5 min"}
+{"week": "第 5 周", "deadline": "Apr 16", "lesson_name": "Honors Track", "tip_name": "Graph based Music Recommender. Task 6", "tip_duration": "1h"}
+{"week": "第 1 周", "deadline": "Mar 19", "lesson_name": "Hive Optimization: Bucketing, Partitioning, Sampling, Compression", "tip_name": "Instructions for Hive programming assignment", "tip_duration": "10 min"}
